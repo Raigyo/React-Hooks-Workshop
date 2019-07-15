@@ -6,7 +6,7 @@
 
 *Juillet 2019*
 
-> 🔨 Workshop: React Hooks par Matthieu Jasselette & Alexandre Bove
+> 🔨 Workshop: [React Hooks](https://github.com/bovealexandre/React-Hooks-Workshop) par Matthieu Jasselette & Alexandre Bove
 
 
 * * *
