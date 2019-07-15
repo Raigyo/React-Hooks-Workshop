@@ -11,6 +11,8 @@
 
 * * *
 
+Demo on [Github page](https://raigyo.github.io/React-Hooks-Workshop/)
+
 ## Installation
 
 Pour installer react, lancez simplement la commande
