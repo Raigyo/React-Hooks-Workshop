@@ -1,4 +1,15 @@
-# react hooks workshop
+# Workshop: React Hooks
+
+![Becode logo](https://raw.githubusercontent.com/Raigyo/react-character-manager/master/img/becode-logo.png)
+
+
+
+*Juillet 2019*
+
+> 🔨 Workshop: React Hooks par Matthieu Jasselette & Alexandre Bove
+
+
+* * *
 
 ## Installation
 
