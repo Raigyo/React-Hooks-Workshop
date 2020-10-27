@@ -6,7 +6,7 @@
 
 *Juillet 2019*
 
-> 🔨 Workshop: [React Hooks](https://github.com/bovealexandre/React-Hooks-Workshop) par Matthieu Jasselette & Alexandre Bove
+> 🔨 Workshop: [React Hooks](https://github.com/bovealexandre/React-Hooks-Workshop) by Matthieu Jasselette & Alexandre Bove
 
 
 * * *
@@ -551,4 +551,10 @@ export default () => {
 ```
 </details>
 
-Voilà, c'est terminé. Je vais dormir.
+
+
+## Useful links
+
+- [Introduction aux Hooks](https://fr.reactjs.org/docs/hooks-intro.html)
+- [Aperçu des Hooks](https://fr.reactjs.org/docs/hooks-overview.html)
+
